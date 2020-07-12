@@ -11,7 +11,6 @@ public class HomeWork2 {
         text = text.toLowerCase();
         wordCount("All words in lowercase count is ", text);
 
-
         text = text.replaceAll("[^a-zA-Z0-9\\s]", "");
         System.out.println("Text without special characters \n" + text);
     }
