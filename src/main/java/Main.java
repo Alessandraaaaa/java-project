@@ -1,12 +1,7 @@
-import Model.Flat;
-import Model.Floor;
-import Model.House;
-import Model.Room;
+import model.*;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
@@ -98,6 +93,10 @@ public class Main {
 
 
 
+
+
+
+
 //        String text = "No svētdienas, 28. jūnija, regulāros starptautiskos lidojumus no un uz lidostu Rīga atsāk Īrijas zemo cenu aviokompānija Ryanair, portālu Delfi informēja lidostas Komunikācijas vienības vadītāja Laura Kulakova.";
 //
 //        String[] words = text.split(" ");
@@ -132,6 +131,14 @@ public class Main {
 //
 //        for (Map.Entry<String, Integer> entry : bookUniqueWords.entrySet())
 //            System.out.println(entry.getKey());
+
+
+
+    }
+
+
+
+
 
 
 
